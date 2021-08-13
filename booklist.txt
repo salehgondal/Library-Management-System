@@ -1,0 +1,31 @@
+name,stock
+Dark World By Zaheer Ahmed,2
+Sabolate Aager by Mazhar Kaleem,3
+Kaya Palat by Mazhar Kaleem,1
+Shalmak By Mazhar Kaleem,2
+Bagop by Mazhar Kaleem,2
+Death Mession By Mazhar Kaleem,2
+Khamosh Cheikhein by Mazar Kaleem,2
+Ganja Bhikari By Mazar Kaleem,1
+Armous Prohit by Mazhar Kaleem,4
+Shogi Pama by Mazhar Kaleem,1
+Black Day by Mazhar Kaleem,6
+Tarantola by Mazhar Kaleem,3
+Double White by Mazhar Kaleem,2
+Black sun by Mazhar Kaleem,3
+Camp fight by Mazhar kaleem,1
+Carman Mission by Mazhar Kaleem,1
+Casper Rays by Mazhar Kaleem,4
+Raigam Balaa by Ibn e safi,3
+Dashing agent by Mazhar kaleem,3
+Doctor Dread by ibn e safi,2
+Doosra Shaula by Ibn e safi,1
+Great Falls By Mazhar Kaleem,1
+Hard Agency by Mazhar kaleem,4
+Multi Target by Mazhar Kaleem,4
+Neeli Roshni by Ibn e safi,1
+Peacock by Mazhar Kaleem,7
+Red Sky by Mazhar Kaleem,3
+Salaaska by mazhar kaleem,2
+Tasweer ka Dushman by Ibn e safi,2
+Zero Blaster by Mazhar Kaleem,1

@@ -1,0 +1,6 @@
+email,password,role,blocked,books_borrowed
+admin,admin,admin,0,
+user1,user1,user,0,
+user,user,user,0,Shalmak By Mazhar Kaleem;Salaaska by mazhar kaleem
+gattu,gattu,admin,0,
+be,be,user,1,
